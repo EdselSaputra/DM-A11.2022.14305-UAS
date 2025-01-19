@@ -27,7 +27,7 @@ import streamlit as st
 data = pd.read_csv('dataset/drug_consumption.csv')
 
 # Streamlit app title
-st.title("Analisis Konsumsi Obat Cannabis dengan Machine Learning")
+st.title("Analisis Pola Konsumsi Narkotika Cannabis berdasarkan Skor Psikologis Individu")
 
 # Pilihan kolom obat
 drug_columns = [col for col in data.columns if col not in ['ID', 'Age', 'Gender', 'Education', 'Country', 'Ethnicity']]
