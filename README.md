@@ -1,5 +1,5 @@
 # UAS-Data-Mining
-## Analisis Hubungan Psikologi dan Konsumsi Obat
+## Analisis Hubungan Psikologi dan Konsumsi Obat Cannabis
 
 ### Identitas
   Nama: Edsel Rivenda Saputra <br />
