@@ -119,13 +119,6 @@ if st.button("Jalankan Analisis"):
     st.text("Classification Report:")
     st.text(classification_report(y_test, y_pred))
 
-    # Confusion Matrix
-    cm_fig = plt.figure(figsize=(8, 6))
-    cm = confusion_matrix(y_test, y_pred, labels=clf.classes_)
-    disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=clf.classes_)
-    disp.plot(cmap='Blues')
-    plt.title('Confusion Matrix')
-    st.pyplot(cm_fig)
 
     # Feature Importances (hanya untuk Random Forest)
     if model_choice == "Random Forest":
