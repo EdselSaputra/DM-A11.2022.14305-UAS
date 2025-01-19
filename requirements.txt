@@ -5,4 +5,4 @@ imblearn
 imbalanced-learn
 streamlit
 matplotlib
-numpy
+
