@@ -8,6 +8,6 @@
   Kelompok: 4517 <br />
 
 Link Streamlit <br />
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dm-a11202214305-uas.streamlit.app/)
 
 
