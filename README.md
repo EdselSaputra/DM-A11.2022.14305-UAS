@@ -12,13 +12,13 @@
 
 ### Jalankan di perangkat anda
 
-1. Install the requirements
+1. Install library yang dibutuhkan dalam requirements
 
    ```
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Cara menjalankan web app
 
    ```
    $ streamlit run streamlit_app.py
